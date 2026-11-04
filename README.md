@@ -238,4 +238,4 @@ This repository serves as the official landing page for spacedesk. The software 
 **Get the most recent version of spacedesk today!**
 
 ---
-**Last updated:** 2026-11-04 03:43:11 UTC
+**Last updated:** 2026-11-04 11:41:45 UTC
